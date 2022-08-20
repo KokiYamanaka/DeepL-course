@@ -1,3 +1,4 @@
+**Deep Learning course by Andrew Ng (total 5 courses)**<br>
 This repository contains assignments/ Lecture notes on Neural Network, (Tuning Regularization, Optimization), CNN, RNN, Transformers.
 A quick highligts at my assignments and lecture notes are posted.
 
