@@ -1,3 +1,5 @@
+This repository contains assignments/ Lecture notes on Neural Network, (Tuning Regularization, Optimization), CNN, RNN, Transformers.
+A quick highligts at my assignments and lecture notes are posted.
 
 ![CNN architecture example](https://user-images.githubusercontent.com/107101940/185766740-e00f7e48-48b2-4737-940e-99ac18f54494.png)<br>
 ![Vanishing gradients with RNN'S](https://user-images.githubusercontent.com/107101940/185766501-b4a312a9-7441-4c5d-97ed-59969e6ef58c.png)
