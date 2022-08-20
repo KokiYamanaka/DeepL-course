@@ -1,5 +1,5 @@
 
-![CNN architecture example](https://user-images.githubusercontent.com/107101940/185766740-e00f7e48-48b2-4737-940e-99ac18f54494.png)
+![CNN architecture example](https://user-images.githubusercontent.com/107101940/185766740-e00f7e48-48b2-4737-940e-99ac18f54494.png)<br>
 ![Vanishing gradients with RNN'S](https://user-images.githubusercontent.com/107101940/185766501-b4a312a9-7441-4c5d-97ed-59969e6ef58c.png)
 
  ![[Convolutional layer backward pass]](https://user-images.githubusercontent.com/107101940/185766637-06cf360b-e781-4a52-aed3-8f0bb11884b1.PNG)
