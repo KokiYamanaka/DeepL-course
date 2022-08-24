@@ -1,5 +1,5 @@
 **Deep Learning course by Andrew Ng (total 5 courses)**<br>
-This repository contains assignments, lecture notes, tests on Neural Network, (Tuning Regularization, Optimization), CNN, RNN, Transformers.<br>
+This repository contains partial copy of my assignments, lecture notes, tests on Neural Network, (Tuning Regularization, Optimization), CNN, RNN, Transformers.<br>
 A quick highligts at my assignments and lecture notes are posted.
 
 ![CNN architecture example](https://user-images.githubusercontent.com/107101940/185766740-e00f7e48-48b2-4737-940e-99ac18f54494.png)<br>
